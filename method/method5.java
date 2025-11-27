@@ -13,9 +13,7 @@ package method;
  오답입니다.  또는 정답입니다. 라고 출력 되도록 합니다.  
  */
 public class method5 {
-
 	public static void main(String[] args) {
 	
 	}
-
 }
